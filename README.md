@@ -18,7 +18,7 @@ https://sayantaniii.github.io/tic-tac-toe-game/
 > Add a screenshot of your game here.
 
 ```md
-![Tic Tac Toe Screenshot](screenshot.png)
+![Tic Tac Toe Screenshot](image.png)
 ```
 
 ---
@@ -84,8 +84,3 @@ While building this project, I practiced:
 
 **GitHub:** https://github.com/sayantaniii
 
-**LinkedIn:** *(Add your LinkedIn profile here)*
-
----
-
-⭐ If you like this project, consider giving it a star!
