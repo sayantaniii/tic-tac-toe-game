@@ -6,19 +6,16 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 
 ## 🚀 Live Demo
 
-🔗 **Play Here:** *(Add your GitHub Pages link here after deployment)*
-
-Example:
-https://sayantaniii.github.io/tic-tac-toe-game/
+🔗https://sayantaniii.github.io/tic-tac-toe-game/
 
 ---
 
 ## 📸 Preview
 
-> Add a screenshot of your game here.
+> Add a screenshot of your game here.(image.png)
 
 ```md
-![Tic Tac Toe Screenshot](image.png)
+![Tic Tac Toe Screenshot]
 ```
 
 ---
